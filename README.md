@@ -8,11 +8,13 @@ This project includes a basic Node.js application that uses Express.js to serve 
 
 ## **Project Structure**
 
-```dockerinit/
+dockerinit/
+```bash
 ├── app.js # Main application file
 ├── package.json # Node.js dependencies and scripts
 ├── Dockerfile # Docker configuration for containerizing the application
-├── docker-compose.yml # Docker Compose file for running the application with Docker```
+├── docker-compose.yml # Docker Compose file for running the application with Docker
+```
 
 
 ### **app.js**
